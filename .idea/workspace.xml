@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49ee136e-474a-4764-9e2f-ffb16f354372" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/AbstractFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Airway.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Cdprojekt.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/CompanyTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Comperia.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/FactoryProducer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Imcompany.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/LondonExchangeCompany.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/LondonExchangeCompanyFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Onico.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Provecta.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/Qumak.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/WarsawExchangeCompany.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/StackMarketAnalyzer/WarsawExchangeCompanyFactory.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,17 +87,6 @@
             <path>
               <item name="StockMarketAnalyzer" type="b2602c69:ProjectViewProjectNode" />
               <item name="StockMarketAnalyzer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StockMarketAnalyzer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StockMarketAnalyzer" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StockMarketAnalyzer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StockMarketAnalyzer" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StockMarketAnalyzer" type="b2602c69:ProjectViewProjectNode" />
